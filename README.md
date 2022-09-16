@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sushant</h1>
 <h3 align="center">Currently a CSE Engineering Student</h3>
 
-<img align="right" alt="coding" width="400" src="[https://giphy.com/explore/programing](https://giphy.com/explore/programing)">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4762jydy3obzd71gyn22k6wcxny06zpb1une24fdxf&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **Machine Learning**
 
